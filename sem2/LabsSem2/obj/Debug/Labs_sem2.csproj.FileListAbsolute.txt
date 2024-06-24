@@ -1,0 +1,7 @@
+C:\prog\Введение в информационные технологии\Sem_1\Lab3_sem2\obj\Debug\Labs_sem2.csproj.AssemblyReference.cache
+C:\prog\Введение в информационные технологии\Sem_1\Lab3_sem2\obj\Debug\Lab3_sem2.Lab3Calculate.resources
+C:\prog\Введение в информационные технологии\Sem_1\Lab3_sem2\obj\Debug\Lab3_sem2.Properties.Resources.resources
+C:\prog\Введение в информационные технологии\Sem_1\Lab3_sem2\obj\Debug\Labs_sem2.csproj.GenerateResource.cache
+C:\prog\Введение в информационные технологии\Sem_1\Lab3_sem2\obj\Debug\Labs_sem2.csproj.CoreCompileInputs.cache
+C:\prog\Введение в информационные технологии\Sem_1\Lab3_sem2\obj\Debug\Lab3_sem2.exe
+C:\prog\Введение в информационные технологии\Sem_1\Lab3_sem2\obj\Debug\Lab3_sem2.pdb

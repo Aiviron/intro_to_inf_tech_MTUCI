@@ -1,0 +1,111 @@
+C:\prog\Введение в информационные технологии\Sem_1\Lab3_sem2\obj\Debug\LabsSem2.csproj.AssemblyReference.cache
+C:\prog\Введение в информационные технологии\Sem_1\Lab3_sem2\obj\Debug\Lab3Sem2.Lab3Calculate.resources
+C:\prog\Введение в информационные технологии\Sem_1\Lab3_sem2\obj\Debug\Lab3_sem2.Properties.Resources.resources
+C:\prog\Введение в информационные технологии\Sem_1\Lab3_sem2\obj\Debug\LabsSem2.csproj.GenerateResource.cache
+C:\prog\Введение в информационные технологии\Sem_1\Lab3_sem2\obj\Debug\LabsSem2.csproj.CoreCompileInputs.cache
+C:\prog\Введение в информационные технологии\Sem_1\LabsSem2\obj\Debug\LabsSem2.csproj.AssemblyReference.cache
+C:\prog\Введение в информационные технологии\Sem_1\LabsSem2\obj\Debug\Lab3_sem2.Properties.Resources.resources
+C:\prog\Введение в информационные технологии\Sem_1\LabsSem2\obj\Debug\LabsSem2.csproj.GenerateResource.cache
+C:\prog\Введение в информационные технологии\Sem_1\LabsSem2\obj\Debug\LabsSem2.csproj.CoreCompileInputs.cache
+C:\prog\Введение в информационные технологии\Sem_1\LabsSem2\bin\Debug\LabsSem2.exe.config
+C:\prog\Введение в информационные технологии\Sem_1\LabsSem2\bin\Debug\LabsSem2.exe
+C:\prog\Введение в информационные технологии\Sem_1\LabsSem2\bin\Debug\LabsSem2.pdb
+C:\prog\Введение в информационные технологии\Sem_1\LabsSem2\obj\Debug\LabsSem2.exe
+C:\prog\Введение в информационные технологии\Sem_1\LabsSem2\obj\Debug\LabsSem2.pdb
+C:\prog\Введение в информационные технологии\Sem_1\LabsSem2\obj\Debug\Lab3_sem2.Lab3TaskForm.resources
+C:\prog\Введение в информационные технологии\Sem_1\LabsSem2\obj\Debug\Lab3_sem2.MainForm.resources
+C:\prog\Введение в информационные технологии\Sem_1\LabsSem2\obj\Debug\Lab3Sem2.Lab3CalculateForm.resources
+C:\prog\gur\sem2\LabsSem2\obj\Debug\LabsSem2.csproj.AssemblyReference.cache
+C:\prog\gur\sem2\LabsSem2\obj\Debug\Lab3Sem2.Lab3CalculateForm.resources
+C:\prog\gur\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab3TaskForm.resources
+C:\prog\gur\sem2\LabsSem2\obj\Debug\Lab3_sem2.MainForm.resources
+C:\prog\gur\sem2\LabsSem2\obj\Debug\Lab3_sem2.Properties.Resources.resources
+C:\prog\gur\sem2\LabsSem2\obj\Debug\LabsSem2.csproj.GenerateResource.cache
+C:\prog\gur\sem2\LabsSem2\obj\Debug\LabsSem2.csproj.CoreCompileInputs.cache
+C:\prog\gur\sem2\LabsSem2\obj\Debug\LabsSem2.exe
+C:\prog\gur\sem2\LabsSem2\obj\Debug\LabsSem2.pdb
+C:\prog\gur\sem2\LabsSem2\bin\Debug\LabsSem2.exe.config
+C:\prog\gur\sem2\LabsSem2\bin\Debug\LabsSem2.exe
+C:\prog\gur\sem2\LabsSem2\bin\Debug\LabsSem2.pdb
+C:\prog\gur\sem2\LabsSem2\bin\Debug\DLL_sem2.dll
+C:\prog\gur\sem2\LabsSem2\bin\Debug\DLL_sem2.pdb
+C:\prog\gur\sem2\LabsSem2\obj\Debug\LabsSem2.csproj.CopyComplete
+C:\prog\gur\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4TaskForm.resources
+C:\prog\gur\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType1.resources
+C:\prog\gur\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType2.resources
+C:\prog\gur\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType4.resources
+C:\prog\gur\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType6.resources
+C:\prog\gur\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4ResultForm.resources
+C:\prog\gur\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType7.resources
+C:\prog\gur\sem2\LabsSem2\obj\Debug\Lab3_sem2.TFormTest.resources
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\bin\Debug\LabsSem2.exe.config
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\bin\Debug\LabsSem2.exe
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\bin\Debug\LabsSem2.pdb
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\bin\Debug\DLL_sem2.dll
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\bin\Debug\DLL_sem2.pdb
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\obj\Debug\LabsSem2.csproj.AssemblyReference.cache
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\obj\Debug\Lab3Sem2.Lab3CalculateForm.resources
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab3TaskForm.resources
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType1.resources
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType2.resources
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType4.resources
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType6.resources
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType7.resources
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4ResultForm.resources
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4TaskForm.resources
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\obj\Debug\Lab3_sem2.MainForm.resources
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\obj\Debug\Lab3_sem2.Properties.Resources.resources
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\obj\Debug\Lab3_sem2.TFormTest.resources
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\obj\Debug\LabsSem2.csproj.GenerateResource.cache
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\obj\Debug\LabsSem2.csproj.CoreCompileInputs.cache
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\obj\Debug\LabsSem2.csproj.CopyComplete
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\obj\Debug\LabsSem2.exe
+C:\Users\MooDuckChe\Desktop\sem2\LabsSem2\obj\Debug\LabsSem2.pdb
+C:\prog\gur\sem2\sem2\LabsSem2\obj\Debug\LabsSem2.csproj.AssemblyReference.cache
+C:\prog\gur\sem2\sem2\LabsSem2\obj\Debug\Lab3Sem2.Lab3CalculateForm.resources
+C:\prog\gur\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab3TaskForm.resources
+C:\prog\gur\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType1.resources
+C:\prog\gur\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType2.resources
+C:\prog\gur\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType5.resources
+C:\prog\gur\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType4.resources
+C:\prog\gur\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4ResultForm.resources
+C:\prog\gur\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4TaskForm.resources
+C:\prog\gur\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.MainForm.resources
+C:\prog\gur\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Properties.Resources.resources
+C:\prog\gur\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.TFormTest.resources
+C:\prog\gur\sem2\sem2\LabsSem2\obj\Debug\LabsSem2.csproj.GenerateResource.cache
+C:\prog\gur\sem2\sem2\LabsSem2\obj\Debug\LabsSem2.csproj.CoreCompileInputs.cache
+C:\prog\gur\sem2\sem2\LabsSem2\bin\Debug\LabsSem2.exe.config
+C:\prog\gur\sem2\sem2\LabsSem2\bin\Debug\LabsSem2.exe
+C:\prog\gur\sem2\sem2\LabsSem2\bin\Debug\LabsSem2.pdb
+C:\prog\gur\sem2\sem2\LabsSem2\bin\Debug\DLL_sem2.dll
+C:\prog\gur\sem2\sem2\LabsSem2\bin\Debug\DLL_sem2.pdb
+C:\prog\gur\sem2\sem2\LabsSem2\obj\Debug\LabsSem2.csproj.CopyComplete
+C:\prog\gur\sem2\sem2\LabsSem2\obj\Debug\LabsSem2.exe
+C:\prog\gur\sem2\sem2\LabsSem2\obj\Debug\LabsSem2.pdb
+C:\prog\gur\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType7_.resources
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\LabsSem2.csproj.AssemblyReference.cache
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\Lab3Sem2.Lab3CalculateForm.resources
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab3TaskForm.resources
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType1.resources
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType2.resources
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType4.resources
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType5.resources
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4AnswerFormType7_.resources
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4ResultForm.resources
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab4TaskForm.resources
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.MainForm.resources
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Properties.Resources.resources
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.TFormTest.resources
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\LabsSem2.csproj.GenerateResource.cache
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\LabsSem2.csproj.CoreCompileInputs.cache
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\LabsSem2.exe
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\LabsSem2.pdb
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\bin\Debug\LabsSem2.exe.config
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\bin\Debug\LabsSem2.exe
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\bin\Debug\LabsSem2.pdb
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\bin\Debug\DLL_sem2.dll
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\bin\Debug\DLL_sem2.pdb
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\LabsSem2.csproj.CopyComplete
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\Lab3_sem2.Lab5TaskForm.resources
+C:\prog\gur\Sem2Test\Sem2_MZ\sem2\sem2\LabsSem2\obj\Debug\Lab3Sem2.Lab5CalculateForm.resources
